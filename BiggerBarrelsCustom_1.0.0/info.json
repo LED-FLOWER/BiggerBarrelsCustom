@@ -1,0 +1,9 @@
+{
+  "name": "BiggerBarrelsCustom",
+  "version": "1.0.0",
+  "title": "Bigger Barrels Custom",
+  "author": "ChatGPT,nekama777",
+  "factorio_version": "2.1",
+  "dependencies": [ "base >= 2.1.0" ],
+  "description": "The liquid volume per barrel is changed from 50 to 500. This value can be adjusted via the settings."
+}
